@@ -1,0 +1,6 @@
+1 Dawud 99.5
+2 Ali 85.66
+3 salmu 55.00
+4 rabba 49.023
+5 Racoon 67.55
+6 darkSmoke 77.55
